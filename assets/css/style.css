@@ -20,6 +20,8 @@ h1 {
     color: blueviolet;
     margin-bottom: 5rem;
 }
+/*container style*/
+
 .container {
     width: 100vw;
     height: 100vh;
@@ -45,4 +47,27 @@ h1 {
 }
 .hidden {
     display: none;
+}
+/*buttons*/
+.btn {
+    font-size: 1.8rem;
+    padding: 1rem 0;
+    width: 20rem;
+    text-align: center;
+    border: 0.1rem solid plum;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: rgb(105, 26, 105);
+    background-color: rgb(236, 150, 215);
+}
+.btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 0 rgba(190, 72, 214, 0.5);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+}
+.btn[disabled]:hover{
+    cursor:not-allowed;
+    box-shadow: none;
+    transform: none;
 }
