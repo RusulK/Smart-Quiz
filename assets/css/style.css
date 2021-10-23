@@ -20,6 +20,11 @@ h1 {
     color: blueviolet;
     margin-bottom: 5rem;
 }
+h2 {
+    font-size: 4.5rem;
+    color: blueviolet;
+    margin-bottom: 5rem;
+}
 /*container style*/
 
 .container {
