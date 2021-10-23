@@ -126,7 +126,11 @@ choices.forEach(choice => {
         if (selectedAnswer == currentQuestion.answer) {
             classToApply = 'correct' ;
         };
+        if (classToApply == 'correct') {
+            incrementScore(CORRECT_BONUS);
+        };
         selectedChoice.parentElement.classlist.add(classToApply);
+        
 
         setTimeout(() => {
             selectedChoice.parentElement.classlist.remove(classToApply);
@@ -136,6 +140,11 @@ choices.forEach(choice => {
 
         });
 });
+incrementScore = num => {
+    score +=num;
+    scoreText.innerText = score;
+
+}
 
 startGame();
 
