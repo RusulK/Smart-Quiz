@@ -13,7 +13,7 @@ username.addEventListener('keyup', () => {
 saveHighScore = (e) => {
 console.log('clickthe save button!')
 e.preventDefault();
-
+// setting the high scores players
 const score = {
     score: Math.floor(Math.random() * 100),
     name: username.value
