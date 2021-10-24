@@ -36,3 +36,14 @@
     text-align: center;
     font-size: small;
 }
+#progressBar {
+    width: 20rem;
+    height: 4rem;
+    border: 0.3rem solid blueviolet;
+    margin-top: 2rem;
+}
+#progressBarFull {
+    height: 3.4rem;
+    background-color: blueviolet;
+    width: 0%;
+}
