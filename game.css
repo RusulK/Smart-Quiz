@@ -3,8 +3,8 @@
     margin-bottom: 0.5rem;
     width: 100vw;
     font-size: 1.8rem;
-    border: 0.1rem sold blueviolet;
-    background-color: cornsilk;
+    border: 0.1rem sold rgb(245, 242, 248);
+    background-color: rgb(102, 219, 235);
 }
 .choice-container:hover{
     cursor: pointer;
@@ -14,7 +14,7 @@
 }
 .choice-prefix{
     padding: 1.5rem 2.5rem;
-    background-color: darkgrey;
+    background-color: rgb(243, 240, 46);
     color: white;
 }
 .choice-text {
