@@ -23,9 +23,11 @@
 }
 .correct {
     background-color: green;
+    color: white;
 }
 .incorrect {
     background-color: red;
+    color: black;
 } 
 /* Hud */
 #hud {

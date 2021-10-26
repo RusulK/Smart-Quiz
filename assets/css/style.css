@@ -95,3 +95,9 @@ input {
     border: none;
     box-shadow: 0 0.1rem 1.4rem 0 rgba(190, 72, 214, 0.5);
 }
+.bold {
+    color: red;
+}
+.color {
+    color: lightcoral;
+}
