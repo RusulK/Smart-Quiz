@@ -68,5 +68,84 @@
         "choice2":"Julia",
         "choice3":"Pen",
         "answer": 3
+    },
+    {
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "choice1":"Money",
+        "choice2":"Key",
+        "choice3":"Watch",
+        "answer": 3
+    },
+    {
+        "question": "What do the letters in the GMT time zone stand for?",
+        "choice1":"Greenwich Mean Time",
+        "choice2":"Glasgow Man Time",
+        "choice3":"General Median Time",
+        "answer": 1
+    },
+    {
+        "question": "What is Tasmania?",
+        "choice1":"A Psychological Disorder",
+        "choice2":"An Australian State",
+        "choice3":"The Name of a Warner Brothers Cartoon Character",
+        "answer": 2
+    },
+    {
+        "question": "What nuts are used in the production of marzipan?",
+        "choice1":"Walnuts",
+        "choice2":"Peanuts",
+        "choice3":"Almonds",
+        "answer": 3
+    },
+    {
+        "question": "WThe Flag of the European Union has how many stars on it?",
+        "choice1":"14",
+        "choice2":"12",
+        "choice3":"10",
+        "answer": 2
+
+    },
+    {
+        "question": "What are Panama hats made out of?",
+        "choice1":"Straw",
+        "choice2":"Silk",
+        "choice3":"Flax",
+        "answer": 1
+    },
+    {
+        "question": "What geometric shape is generally used for stop signs?",
+        "choice1":"Octagon",
+        "choice2":"Circle",
+        "choice3":"Triangle",
+        "answer": 1
+    },
+    {
+    "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+        "choice1":"British Airways",
+        "choice2":"Air France",
+        "choice3":"Swiss Air",
+        "answer": 3
+    },
+    {
+        "question": "Which American president appears on a one dollar bill?",
+        "choice1":"Benjamin Franklin",
+        "choice2":"George Washington",
+        "choice3":"Thomas Jefferson",
+        "answer": 2
+    },
+    {
+        "question": "Who is the youngest person to recieve a Nobel Prize?",
+        "choice1":"Malala Yousafzai",
+        "choice2":"Lawrence Bragg",
+        "choice3":"Werner Heisenberg",
+        "answer": 1
+    },
+    {
+        "question": "What zodiac sign is represented by a pair of scales?",
+        "choice1":"Capricon",
+        "choice2":"Aries",
+        "choice3":"Libra",
+        "answer": 3
     }
+
 ]

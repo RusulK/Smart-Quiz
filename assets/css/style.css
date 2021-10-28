@@ -20,6 +20,7 @@ h1 {
     color: rgb(255, 255, 255);
     margin-bottom: 5rem;
     padding-top: 15px;
+    text-align: center;
 }
 h2 {
     font-size: 4.5rem;
@@ -95,6 +96,7 @@ input {
     font-size: 1.7rem;
     border: none;
     box-shadow: 0 0.1rem 1.4rem 0 rgb(250, 248, 250);
+    color: black;
 }
 .bold {
     color: rgb(22, 226, 253);
@@ -105,4 +107,12 @@ input {
     color: rgb(235, 253, 129); 
     text-align: center;
     justify-content: center;
+}
+.instructions {
+    text-align: center;
+    font-size: 30px;
+    color: turquoise;
+    border: 7px dotted orange ;
+    border-radius: 10px;
+    padding: 10px;
 }
