@@ -15,7 +15,7 @@ console.log('clickthe save button!');
 e.preventDefault();
 // setting the high scores players
 const score = {
-    score: Math.floor(Math.random() * 100),
+    score: document.getElementById('finalScore').innerText,
     name: username.value
 };
 highScores.push(score);
@@ -24,3 +24,7 @@ highScores.splice(5);
 localStorage.setItem('highScores', JSON.stringify(highScores));
 window.location.assign("/");
 };
+
+window.addEventListener('load', function(){
+    document.getElementById('saveScoreBtn').addEventListener('click', saveHighScore);
+});
