@@ -3,7 +3,7 @@
     margin-bottom: 0.5rem;
     width: 100%;
     font-size: 1.8rem;
-    border: 0.1rem sold rgb(245, 242, 248);
+    border: 0.1rem solid rgb(245, 242, 248);
     background-color: rgb(102, 219, 235);
 }
 .choice-container:hover{

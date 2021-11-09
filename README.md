@@ -1,3 +1,5 @@
+![amiresponsive-img](/assets/imges/amiresponsive-img.png)
+<br>
 [Visit Smart Quiz]()<br>
 # Website Goals:
 The aime of this Quiz is to let players to test their General Knowledg and aiming for the highest scores.
@@ -15,16 +17,46 @@ I did not use images to this project, just bright colours as a background to eac
 # Features
 ### Home page
 A play button to start the game , High score button to check the scores and the instructions for how to play the game by clicking the how to paly button.
+![Home-Page](/assets/imges/home-page.png)
 ### Play page 
 here is a varaity of questions for the users with questions counter and scores , there is no timer to answer question, and a colourful multiple answers.
 At the end , buttons to save the scores, play abain or going back to home.
+![Play-Page](/assets/imges/Play-Page.png)
 # Future Features:
 Next time of doing a project, I would like to add level of difficulty, Sound to start the game, lose or win.
 Adding feedback of how good and fun was the quiz, is a good idea as well.
 # Languages used :
 HTML , CSS and JavaScript.
+*  index.html ,no errors were found when passing through the official [W3C Validator](https://validator.w3.org/)
+<br>
+* howtoplay ,no errors were found when passing through the official [W3C Validator](https://validator.w3.org/)
+<br>
+* highscores.html , no errors were found when passing through the official [W3C Validator](https://validator.w3.org/)
+<br>
+* game.html, no errors were found when passing through the official [W3C Validator](https://validator.w3.org/)
+<br>
+* end.html, no errors were found when passing through the official [W3C Validator](https://validator.w3.org/)
+<br>
+* style.css ,no errors were found when passing through the official [W3C Validator](https://jigsaw.w3.org/css-validator/validator)
+<br>
+* highscores.css ,no errors were found when passing through the official [W3C Validator](https://jigsaw.w3.org/css-validator/validator)
+<br>
+* highscores.css ,no errors were found when passing through the official [W3C Validator](https://jigsaw.w3.org/css-validator/validator)
+<br>
+* game.css ,no errors were found when passing through the official [W3C Validator](https://jigsaw.w3.org/css-validator/validator)
+
+* highscores.js, game.js, and end.js, had some issues on [https://www.jslint.com/] and did not know how to sort it out.
 # Programes used:
 Gitpod, GitHub, Google Chrome Developer tools, Am I responsive, and Google Lighhouse.
+* Accessibility
+  There colors and Fonts been used are easy to read and accessible by running it through Lighthouse in devtools.
+  ![accissibility-img](/assets/imges/accessebility.png)
+  # Deployment
+  The site was deployed to GitHub pages:
+  <br>
+  The link can be found on the link below:
+  ( https://rusulk.github.io/Smart-Quiz/)
+
 
 
 
