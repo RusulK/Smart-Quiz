@@ -51,8 +51,15 @@ Gitpod, GitHub, Google Chrome Developer tools, Am I responsive, and Google Lighh
 * Accessibility
   There colors and Fonts been used are easy to read and accessible by running it through Lighthouse in devtools.
   ![accissibility-img](/assets/imges/accessebility.png)
+  # Fixing bugs:
+   
   # Deployment
   The site was deployed to GitHub pages:
+  Deployment steps as followed:
+  * From the repository page navigate to settings.
+  * From GitHub pages click on check it out here! link.
+  * choose main from source/branch and select save.
+  * once that been selected , refresh the page and it has been deployed successfully.
   <br>
   The link can be found on the link below:
   ( https://rusulk.github.io/Smart-Quiz/)
