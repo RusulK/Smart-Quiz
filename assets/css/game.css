@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Oswald&display=swap');
 .choice-container {
     display: flex;
     margin-bottom: 0.5rem;
@@ -49,3 +50,35 @@
     background-color: blueviolet;
     width: 0%;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+ }
+    
+    .social-network {
+    text-align: center;
+    padding-top: 13px;
+    position: relative;
+    margin-top: 125px;
+    }
+    
+    .social-network > li {display: inline;}
+    .social-network i { 
+    font-size: x-large;
+    margin: 10px;
+    padding: 5px;
+    color: white;
+    }
+    footer p {background-color: white;
+        text-align: center;
+        font-size: medium;
+        color: tomato;
+        font-weight: 500;
+        font-family: oswald, sans-serif;
+        }
