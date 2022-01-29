@@ -52,7 +52,14 @@ Gitpod, GitHub, Google Chrome Developer tools, Am I responsive, and Google Lighh
   There colors and Fonts been used are easy to read and accessible by running it through Lighthouse in devtools.
   ![accissibility-img](/assets/imges/accessebility.png)
   # Fixing bugs:
-   
+  Submitting the player's scores was an issue and it led to 404. 
+  ![404-img](/assets/imges/404.png)
+  <br>
+  Made some changes to end.Js and to 
+  end.html button type.  
+  <br>
+  ![submit-img](/assets/imges/submit.png)
+
   # Deployment
   The site was deployed to GitHub pages:
   Deployment steps as followed:
