@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,30 +10,31 @@
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/game.css">
 </head>
+
 <body>
     <div class="container">
         <div id="game" class="justify-center flex-colum">
-        <div id="hud">
-            <div id="hud-item">
-                <!--Questions-->
-                <p id="progressText" class="hud-prefix">
-                    Question
-                </p>
-                <div id="progressBar">
-                    <div id="progressBarFull"></div>
+            <div id="hud">
+                <div id="hud-item">
+                    <!--Questions-->
+                    <p id="progressText" class="hud-prefix">
+                        Question
+                    </p>
+                    <div id="progressBar">
+                        <div id="progressBarFull"></div>
+                    </div>
+                </div>
+                <div class="hud-item">
+                    <p class="hud-prefix">
+                        Score
+                    </p>
+                    <!--Player's Scores-->
+                    <h1 class="hud-main-text" id="score">
+                        0
+                    </h1>
                 </div>
             </div>
-            <div class="hud-item">
-                <p class="hud-prefix">
-                    Score
-                </p>
-                <!--Player's Scores-->
-                <h1 class="hud-main-text" id="score">
-                    0
-                </h1>
-            </div>
-        </div>
-        <!--Question and right answers options-->
+            <!--Question and right answers options-->
             <h2 id="question"> What is the answer to this question?</h2>
             <div class="choice-container">
                 <p class="choice-prefix">A</p>
@@ -48,24 +50,28 @@
             </div>
         </div>
     </div>
+    <!-- Footer-->
     <footer>
         <div>
             <ul class="social-network">
-              <li>
-                <a href="http://www.facebook.com" 
-                aria-label="Visit our Facebook page (opens in a new tab)" target="_blank"><i class="fab fa-facebook"></i></a>
-              </li>
-              <li>
-                <a href="http://www.instagram.com" aria-label="Go to our Instagram page (opens ina new tab)" target="_blank">
-                 <i class="fab fa-instagram"></i></a>
-              </li>
-              <li>
-                <a href="https://www.youtube.com/" aria-label="Visit our YouTube Channel (opens in a new tab)" target="_blank"><i class="fab fa-youtube"></i></a>
-              </li>
+                <li>
+                    <a href="http://www.facebook.com" aria-label="Visit our Facebook page (opens in a new tab)"
+                        target="_blank"><i class="fab fa-facebook"></i></a>
+                </li>
+                <li>
+                    <a href="http://www.instagram.com" aria-label="Go to our Instagram page (opens ina new tab)"
+                        target="_blank">
+                        <i class="fab fa-instagram"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/" aria-label="Visit our YouTube Channel (opens in a new tab)"
+                        target="_blank"><i class="fab fa-youtube"></i></a>
+                </li>
             </ul>
             <p><i class="far fa-copyright"></i> Smart Quiz 2021</p>
-          </div>
-         </footer>
-<script src="./assets/js/game.js"></script>
+        </div>
+    </footer>
+    <script src="./assets/js/game.js"></script>
 </body>
+
 </html>
