@@ -111,19 +111,19 @@ input {
 }
 .instructions {
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     color: turquoise;
     border: 7px dotted orange ;
     border-radius: 10px;
     padding: 10px;
 }
 
-.footer {
+footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
+    
     color: white;
     text-align: center;
  }
