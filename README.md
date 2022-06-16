@@ -1,6 +1,6 @@
 ![amiresponsive-img](/assets/imges/amiresponsive-img.png)
 <br>
-[Visit Smart Quiz]()<br>
+[Visit Smart Quiz](https://rusulk.github.io/Smart-Quiz/)<br>
 # Website Goals:
 The aime of this Quiz is to let players to test their General Knowledg and aiming for the highest scores.
 This Quiz have questions for all levels,It suits everyone who likes to learn.
